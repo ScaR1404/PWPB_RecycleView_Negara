@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas Recycle View</string>
+    <string name="negara_name">Nama Negara</string>
+    <string name="deskripsi">Deskripsi Negara</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="with_cardview">CardView</string>
+    <string name="list">List</string>
+</resources>
